@@ -9,6 +9,7 @@
 
 <h2>🎁 Features in the full version</h2>
 <p>The current features of the application include:</p><br />
+
 - 🔍Listing all containers, including their ID, name, status, network and its type, IP, ports and the default running command in a table
 - 🖱️Doubleclick on the selected table row opens a terminal to the container in a pop-up window
 - 🖼️Ability to open more container terminal windows
